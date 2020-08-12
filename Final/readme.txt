@@ -10,9 +10,13 @@ PARA MODIFICAR LO REALIZADO HAY QUE:												*
 *ver el estado de git con:				git status									*
 *luego agregamos lo modificado con: 	git add .									*
 *luego commiteamos con: 	    		git commit -m "mensaje de commit"			*
-*luego lo subimos a heroku: 			git push heroku master						*
-																					*
+***luego lo subimos a heroku: 			git push heroku master						*
+***o lo subimos a GITHUB con:           git push -u origin master					*
 ************************************************************************************
+
+COMANDOS GIT PARA SUBIR REPO:
+
+
 #NO DEMON
 *Instalamos npm i -D nodemon
 *Luego abrimos el package.json y donde dice scripts le agregamos esta linea
